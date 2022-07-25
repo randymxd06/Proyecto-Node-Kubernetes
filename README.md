@@ -13,9 +13,3 @@
 ## Para ver los servicios que estan corriendo usamos el comando
 
 ```kubectl get service```
-
-
-## Para eliminar un servicio usamos el comando
-
-```kubectl delete svc pod1```
-```kubectl delete svc pod2```
